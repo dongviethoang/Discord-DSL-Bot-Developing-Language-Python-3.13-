@@ -41,7 +41,7 @@ You must create a `.env` file before running the bot. You may rename it (e.g., `
 Example `config.env`:
 ```
 DISCORD_TOKEN=your_bot_token_here
-CHANNEL_ID=1402842937510989887
+CHANNEL_ID=id
 ```
 
 Make sure your `.env` file uses UTF-8 (without BOM) encoding if you're on Windows.
